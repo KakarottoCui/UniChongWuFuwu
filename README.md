@@ -32,9 +32,10 @@
 
 知识与社区管理：发布审核知识内容，管理社区动态与违规内容，统计知识数据。
 
-
 用到的技术：
 
 后端 Java语言的SpringBoot框架、MySQL数据库、Maven依赖管理等；
 
 前端 小程序是Vue.js语法的UniApp框架，管理员前端是Vue项目结构。
+
+另一个版本的宠物服务小程序传送门：https://github.com/KakarottoCui/UniChongWuServiceApplet
